@@ -1,6 +1,7 @@
 # Delhi Metro Network Analysis
 
-![Banner](https://sundayguardianlive.com/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-26-at-12.33.47-PM.jpeg)
+![Banner](https://sundayguardianlive.com/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-26-at-12.33.47-PM.jpeg)  
+
 This project aims to analyze the Delhi Metro network using Python. By examining the structure, efficiency, and effectiveness of the metro system, we can gain insights into routes, stations, traffic, connectivity, and other operational aspects.
 
 ## Objective
